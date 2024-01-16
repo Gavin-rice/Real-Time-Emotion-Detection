@@ -1,4 +1,4 @@
-# 225-Assignment-1
+# Real time facial and emotion detection and classification application
 
 To run this program yourself you will need to download the dataset from Kaggle
 
